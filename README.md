@@ -1,13 +1,36 @@
-# Bem vindo ao projeto Forma Palavras 👋
+# Form Words
 
-Esse projeto é a implementação digital do jogo físico Forma Palavras, que tem o intuito de formar palavras dando algumas imagens para a criança.
+The Form Words app is an educational tool designed to assist in the development of literacy and the improvement of language skills. It encourages children to form words using letters or syllables. The app helps collect data to study how children develop as they play.
 
+## How to Play?
 
-![image](https://github.com/user-attachments/assets/34e847c3-bb45-4458-9a02-5dd95bb9120b)
+1. Install the dependencies:
 
-A utilização desse jogo será para fins educativos e também médicos. Obtendo dados e informações relevantes para pré diagnósticos de crianças portadoras do TEA, com o auxílio de um especialista acompanhando os comportamentos e também obtendo um relatório pós atividade.
+   ```bash
+   npm install
+   ```
 
-## Para rodar
+2. Start the project using Expo Start:
+
+   ```bash
+    npx expo start
+   ```
+
+3. Launch via web using the address provided in the terminal, or download the Expo Go app on your phone and scan the QR Code. Example:
+
+   ```bash
+    http://localhost:8081
+   ```
+
+## Final Notes
+
+This is a project for educational purposes. Feel free to explore, modify, and expand the code according to your needs.
+
+# [PT-BR] Forma Palavras
+
+O app Forma Palavras é uma ferramenta educativa projetada para auxiliar no desenvolvimento da alfabetização e no aprimoramento das habilidades linguísticas. Ele incentiva as crianças a formarem palavras a partir de letras ou sílabas. O app ajuda a coletar dados para estudar a forma que as crianças se desenvolvem conforme jogam.
+
+## Como jogar?
 
 1. Instale as dependências:
 
@@ -21,14 +44,12 @@ A utilização desse jogo será para fins educativos e também médicos. Obtendo
     npx expo start
    ```
 
-3. Inicie via web com o endereço que ele der através do terminal ou baixe o app Expo Go no seu celular e realize a leitura do QR Code. Exemplo:
+3. Inicie via web com o endereço que ele der através do terminal ou baixe o app Expo Go no seu celular para realizar a leitura do QR Code. Exemplo:
 
    ```bash
     http://localhost:8081
    ```
 
-4. Algumas imagens do jogo:
+## Considerações Finais
 
-![image](https://github.com/user-attachments/assets/4fea9623-2c8e-4f20-972f-c5716fabe403)
-
-![image](https://github.com/user-attachments/assets/627291d6-a77f-4e98-909d-33b435a8f1ff)
+Este é um projeto com fins educacionais. Sinta-se à vontade para explorar, modificar e expandir o código conforme suas necessidades.
